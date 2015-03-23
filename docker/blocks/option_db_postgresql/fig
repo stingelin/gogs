@@ -1,5 +1,5 @@
 db:
-  image: wyaeld/postgres:9.3
+  image: nornagon/postgres:latest
   environment:
     POSTGRESQL_DB: gogs
     POSTGRESQL_USER: gogs
